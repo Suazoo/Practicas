@@ -1,0 +1,14 @@
+C:\Cshart\Practica_NO4\Practica_NO4\bin\Debug\net9.0\Practica_NO4.exe
+C:\Cshart\Practica_NO4\Practica_NO4\bin\Debug\net9.0\Practica_NO4.deps.json
+C:\Cshart\Practica_NO4\Practica_NO4\bin\Debug\net9.0\Practica_NO4.runtimeconfig.json
+C:\Cshart\Practica_NO4\Practica_NO4\bin\Debug\net9.0\Practica_NO4.dll
+C:\Cshart\Practica_NO4\Practica_NO4\bin\Debug\net9.0\Practica_NO4.pdb
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\Practica_NO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\Practica_NO4.AssemblyInfoInputs.cache
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\Practica_NO4.AssemblyInfo.cs
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\Practica_NO4.csproj.CoreCompileInputs.cache
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\Practica_NO4.dll
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\refint\Practica_NO4.dll
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\Practica_NO4.pdb
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\Practica_NO4.genruntimeconfig.cache
+C:\Cshart\Practica_NO4\Practica_NO4\obj\Debug\net9.0\ref\Practica_NO4.dll

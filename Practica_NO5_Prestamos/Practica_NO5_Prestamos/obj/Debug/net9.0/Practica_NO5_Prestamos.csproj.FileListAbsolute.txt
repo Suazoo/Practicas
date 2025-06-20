@@ -1,0 +1,14 @@
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\bin\Debug\net9.0\Practica_NO5_Prestamos.exe
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\bin\Debug\net9.0\Practica_NO5_Prestamos.deps.json
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\bin\Debug\net9.0\Practica_NO5_Prestamos.runtimeconfig.json
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\bin\Debug\net9.0\Practica_NO5_Prestamos.dll
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\bin\Debug\net9.0\Practica_NO5_Prestamos.pdb
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\Practica_NO5_Prestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\Practica_NO5_Prestamos.AssemblyInfoInputs.cache
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\Practica_NO5_Prestamos.AssemblyInfo.cs
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\Practica_NO5_Prestamos.csproj.CoreCompileInputs.cache
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\Practica_NO5_Prestamos.dll
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\refint\Practica_NO5_Prestamos.dll
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\Practica_NO5_Prestamos.pdb
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\Practica_NO5_Prestamos.genruntimeconfig.cache
+C:\Cshart\Practica_NO5_Prestamos\Practica_NO5_Prestamos\obj\Debug\net9.0\ref\Practica_NO5_Prestamos.dll
